@@ -1,0 +1,22 @@
+.container {
+  width: 500px;
+  height: 500px;
+  background-color: grey;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin-left: -250px;
+  margin-top: -250px;
+}
+
+.box {
+  width: 200px;
+  height: 200px;
+  background-color: blue;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin-left: -100px;
+  margin-top: -100px;
+}
+/*# sourceMappingURL=styles.css.map */
